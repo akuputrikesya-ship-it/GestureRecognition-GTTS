@@ -19,7 +19,7 @@ cap = cv2.VideoCapture(0)
 
 gesture_dict = {
     "halo": "Halo!",
-    "perkenalan": "Perkenalkan, saya Yudistira",
+    "perkenalan": "Perkenalkan, saya putri kesya",
     "salam": "Salam kenal",
     "terima": "Terimakasih, sampai jumpa"
 }
